@@ -2,11 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 st.title('3d Modeling Idea Generator')
-st.write("Want to 3d model something but need some inspiration? You've come to the right place! Simply click the button below, and get a randomly generated idea! If you don't like your first one, just try again!")
+st.write("Want to 3d model something but need some inspiration? You've come to the right place! Click the button below, and get a randomly generated idea! If you don't like your first one, just try again!")
 
 import random
 import string
-st.write('Welcome to idea generator!')
 adjectives = ['poopy', 'stinky', 'big', 'red', 'orange', 'yellow', 'green',
               'blue', 'purple', 'pink', 'black', 'white', 'gray', 'brown',
               'colorful', 'rainbow', 'woven', 'wooden', 'musical', 'old',
