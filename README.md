@@ -1,2 +1,2 @@
-Simply download the .py file and run it. (make sure you have python installed.
-I will be adding a streamlit web app for this soon.
+This is the code for the web app.
+The old version to download is in the file with old in the name.
